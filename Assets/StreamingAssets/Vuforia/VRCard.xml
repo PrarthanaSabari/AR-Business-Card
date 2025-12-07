@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="VRCARD" size="5.000000 2.857143" />
+  </Tracking>
+</QCARConfig>
