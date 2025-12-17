@@ -28,7 +28,7 @@ It detects a predefined image target and overlays digital content in real time, 
 ## Project Structure
 ```
 AR-Project/
-│
+├── Demo images
 ├── Assets/                # Scenes, scripts, models, prefabs
 ├── Packages/              # Unity package dependencies
 ├── ProjectSettings/       # Unity project configuration
