@@ -46,11 +46,11 @@ obj/
 ```
 
 ## How to Run the Project
-Step 1: Clone the Repository
+### Step 1: Clone the Repository
 ``` bash
 git clone https://github.com/your-username/your-repo-name.git
 ```
-Step 2: Open the Project in Unity
+### Step 2: Open the Project in Unity
 
 • Open Unity Hub
 
@@ -58,7 +58,7 @@ Step 2: Open the Project in Unity
 
 • Select the cloned project directory
 
-Step 3: Enable Vuforia Engine
+### Step 3: Enable Vuforia Engine
 
 1. Go to Edit → Project Settings → Player
 
@@ -66,7 +66,7 @@ Step 3: Enable Vuforia Engine
 
 3. Restart Unity if required
 
-Step 4: Add Vuforia License Key
+### Step 4: Add Vuforia License Key
 
 For security reasons, the Vuforia license key is not included.
 
@@ -78,7 +78,7 @@ ARCamera → Vuforia Behaviour → App License Key
 ```
 • Paste your license key
 
-Step 5: Add Image Target Locally
+### Step 5: Add Image Target Locally
 
 Target images and databases are not included in the repository.
 
@@ -92,7 +92,7 @@ Target images and databases are not included in the repository.
 
 5. Attach the AR content to the target
 
-Step 6: Build and Run on Android
+### Step 6: Build and Run on Android
 
 • Go to File → Build Settings
 
@@ -101,10 +101,6 @@ Step 6: Build and Run on Android
 • Click Build and Run
 
 • Connect an Android device with USB debugging enabled
-
-## Demo
-
-
 
 ## Privacy and Security
 
