@@ -1,31 +1,31 @@
-# Augmented Reality Card Scanner (Unity + Vuforia)
+#🚀 Augmented Reality Card Scanner (Unity + Vuforia)
 
 This project is an Augmented Reality (AR) application developed using Unity and Vuforia Engine.
 It detects a predefined image target and overlays digital content in real time, demonstrating image recognition, tracking, and AR interaction.
 
 ## Features
 
-Image target detection using Vuforia
+• Image target detection using Vuforia
 
-Real-time AR content overlay
+• Real-time AR content overlay
 
-Android platform support
+• Android platform support
 
-Smooth tracking and rendering
+• Smooth tracking and rendering
 
-Secure configuration without exposing private keys
+• Secure configuration without exposing private keys
 
 ## Tech Stack
 
-Unity (2021.x or later recommended)
+• Unity (2021.x or later recommended)
 
-Vuforia Engine
+• Vuforia Engine
 
-C#
+• C#
 
-Android Build Support
+• Android Build Support
 
-P## roject Structure
+## Project Structure
 ```
 AR-Project/
 │
@@ -52,56 +52,55 @@ git clone https://github.com/your-username/your-repo-name.git
 ```
 Step 2: Open the Project in Unity
 
-Open Unity Hub
+• Open Unity Hub
 
-Click Open Project
+• Click Open Project
 
-Select the cloned project directory
+• Select the cloned project directory
 
 Step 3: Enable Vuforia Engine
 
-Go to Edit → Project Settings → Player
+1. Go to Edit → Project Settings → Player
 
-Enable Vuforia Augmented Reality Support
+2. Enable Vuforia Augmented Reality Support
 
-Restart Unity if required
+3. Restart Unity if required
 
 Step 4: Add Vuforia License Key
 
 For security reasons, the Vuforia license key is not included.
 
-Create a development license key from the Vuforia Developer Portal
+• Create a development license key from the Vuforia Developer Portal
 
-In Unity, select:
-
+• In Unity, select:
+```bash
 ARCamera → Vuforia Behaviour → App License Key
-
-
-Paste your license key
+```
+• Paste your license key
 
 Step 5: Add Image Target Locally
 
 Target images and databases are not included in the repository.
 
-Create an image target database in the Vuforia Portal
+1. Create an image target database in the Vuforia Portal
 
-Download it as a Unity package
+2. Download it as a Unity package
 
-Import it into the project
+3. Import it into the project
 
-Add an Image Target to the scene
+4. Add an Image Target to the scene
 
-Attach the AR content to the target
+5. Attach the AR content to the target
 
 Step 6: Build and Run on Android
 
-Go to File → Build Settings
+• Go to File → Build Settings
 
-Select Android
+• Select Android
 
-Click Build and Run
+• Click Build and Run
 
-Connect an Android device with USB debugging enabled
+• Connect an Android device with USB debugging enabled
 
 ## Demo
 
@@ -109,11 +108,11 @@ Connect an Android device with USB debugging enabled
 
 ## Privacy and Security
 
-Vuforia license keys are not uploaded
+• Vuforia license keys are not uploaded
 
-Image target databases are not included
+• Image target databases are not included
 
-Users must configure their own credentials locally
+• Users must configure their own credentials locally
 
-This ensures safe and public sharing of the repository.
+• This ensures safe and public sharing of the repository.
 
