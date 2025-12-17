@@ -1,4 +1,4 @@
-#🚀 Augmented Reality Card Scanner (Unity + Vuforia)
+# 🚀 Augmented Reality Card Scanner (Unity + Vuforia)
 
 This project is an Augmented Reality (AR) application developed using Unity and Vuforia Engine.
 It detects a predefined image target and overlays digital content in real time, demonstrating image recognition, tracking, and AR interaction.
